@@ -1,0 +1,1 @@
+var json_Outlet_4 = {"type":"FeatureCollection","name":"Outlet_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":1.0,"INLET":0.0,"RES":0.0,"PTSOURCE":0.0,"NM":"Outlet"},"geometry":{"type":"Point","coordinates":[73.920758078040976,18.432637967340131]}}]}
